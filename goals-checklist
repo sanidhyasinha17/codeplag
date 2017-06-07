@@ -1,4 +1,4 @@
-### goals initially for the document fingerprinting project .
+### goals initially for the document fingerprinting project ###
 - [ ] Find different string matching techniques 
 - [ ] Compare the time complexity and which ones are more efficient 
 - [ ] implement finite automata 
